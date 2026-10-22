@@ -31,10 +31,7 @@
         "TomasChochola",
         "Tomas Chochola",
         "Tomáš Chochola",
-        "application",
-        "microservice",
-        "quickmux",
-        "template"
+        "template-php-quickmux"
     ],
     "license": "CC-BY-ND-4.0",
     "name": "@tomaschochola/template-php-quickmux",
