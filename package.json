@@ -15,7 +15,7 @@
             "url": "https://github.com/tomaschochola"
         }
     ],
-    "description": "Quickmux application template with explicit integration, MySQL migrations, and PSR implementations.",
+    "description": "github.com/tomaschochola/template-php-quickmux",
     "devDependencies": {
         "@tomaschochola/tooling-eslint": "git+https://github.com/tomaschochola/tooling-eslint.git#main",
         "@tomaschochola/tooling-prettier": "git+https://github.com/tomaschochola/tooling-prettier.git#main",

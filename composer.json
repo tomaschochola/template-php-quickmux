@@ -36,7 +36,7 @@
         },
         "sort-packages": true
     },
-    "description": "Quickmux application template with explicit integration, MySQL migrations, and PSR implementations.",
+    "description": "github.com/tomaschochola/template-php-quickmux",
     "funding": [
         {
             "type": "github",
